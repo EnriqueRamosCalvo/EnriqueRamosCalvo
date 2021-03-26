@@ -1,11 +1,14 @@
-### Hi there 👋
+console.log (Hi World 👋!) My name is Enrique Ramos Calvo
+#### I am a full stack sofwarte developer
+![I am a full stack sofwarte developer](https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex-gif.gif)
 
-<!--
-**EnriqueRamosCalvo/EnriqueRamosCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m not currently working, i am studing in Academlo academy 
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Facebook
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
